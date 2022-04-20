@@ -158,7 +158,7 @@ a:focus,
 a:hover {
   color: #824027;
 }
-// style card body on the portfolio section
+style card body on the portfolio section
 div.card-body.centralize {
   display: flex;
   flex-direction: column;
