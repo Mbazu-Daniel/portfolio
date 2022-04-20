@@ -21,7 +21,7 @@ from django.urls import path, include
 from project import views
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
+    path('whoami/', admin.site.urls),
     path('', views.index, name='index'),
 
 
