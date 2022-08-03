@@ -183,7 +183,7 @@ a:active {
   color: #05034d;
 }
 
-// style card body on the portfolio section
+/* style card body on the portfolio section */
 div.card-body.centralize{
     display: flex;
     flex-direction: column;
